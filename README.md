@@ -2,7 +2,7 @@
 
 ## About
 
-Use Case: XYZ Cement Factory is a leading manufacturer of concrete products. Recently, the company has received feedback from its clients about the inconsistent strength of its concrete. To maintain its reputation and ensure customer satisfaction, XYZ Cement Factory has decided to invest in optimizing the concrete strength.
+Use Case: XYZ Concrete Factory is a leading manufacturer of concrete products. Recently, the company has received feedback from its clients about the inconsistent strength of its concrete. To maintain its reputation and ensure customer satisfaction, XYZ Concrete Factory has decided to invest in optimizing the concrete strength.
 
 Goal: Predict the compressive strength of concrete based on the mixture of ingredients and optimize the mixture of ingredients to maximize the compressive strength of concrete.
 
