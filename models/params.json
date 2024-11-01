@@ -1,0 +1,1 @@
+{"lambda_l1": 0.0001227913784887548, "lambda_l2": 4.785055572186016, "num_leaves": 177, "feature_fraction": 0.753837119643056, "bagging_fraction": 0.7317080051975369, "bagging_freq": 3, "min_child_samples": 40, "objective": "regression", "metric": "rmse", "verbosity": -1, "boosting_type": "gbdt"}
